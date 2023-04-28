@@ -2,7 +2,7 @@
 
 In this project, we collected a dataset of life expectancy for countries around the world and a dataset of the consumption of a multitude of food products for said countries and we set out to see if we can build a model of consumption to predict a countries life expectancy. Nutrient plays an important role in a person's health, so we sought out to see if a model based on food consumption and life expectancy would reflect that trend.
 
-There should be four different .cvs files called: Fat_Supply_Quantity_Data.cvs, Protien_Supply_Quantity_Data.cvs, Food_Supply_kcal_Data.csv, and life_expectancy.cvs. The entire code used for the project is stored in the cmse 202 final project.ipynb in Cochrane's branch.
+There should be four different .cvs files called: Fat_Supply_Quantity_Data.cvs, Protien_Supply_Quantity_Data.cvs, Food_Supply_kcal_Data.csv, and life_expectancy.cvs. The entire code used for the project is stored in the cmse 202 final project (final draft).ipynb in the main branch.
 
 Team Member Contributions:
 
